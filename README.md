@@ -1,13 +1,15 @@
-# AuditTest
+## AuditTest
 
-How to Test
+Install Foundry and Test suits reference the link below
 
-Install Foundry and Test suits 
 https://github.com/foundry-rs/foundry
+> Clone the repository and run the commands below
 
-Install the dependencies
-run forge install 
+To install the dependencies
 
-Test the cases
-run _forge test_
+`forge install`
+
+To run the tests
+
+`forge test`
 
